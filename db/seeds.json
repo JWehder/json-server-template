@@ -1,52 +1,260 @@
 {
-  "toys": [
+  "players": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
-    },
+      "position": "QB",
+      "name": "Patrick Mahomes",
+      "teamName": "Kansas City Chiefs",
+      "projectedPoints": 24.4,
+      "opponent": "Tennessee Titans"
+    }, 
     {
       "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
+      "position": "QB",
+      "name": "Josh Allen",
+      "teamName": "Buffalo Bills",
+      "projectedPoints": 23.0,
+      "opponent": "New York Jets"
     },
     {
       "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "position": "QB",
+      "name": "Jalen Hurts",
+      "teamName": "Philadelphia Eagles",
+      "projectedPoints": 24.1,
+      "opponent": "Houston Texans"
     },
     {
       "id": 4,
-      "name": "Slinky Dog",
-      "image": "https://www.freeiconspng.com/uploads/slinky-png-transparent-1.png",
-      "likes": 4
+      "position": "QB",
+      "name": "Justin Herbert",
+      "teamName": "Los Angeles Chargers",
+      "projectedPoints": 21.1,
+      "opponent": "Atlanta Falcons"
     },
     {
       "id": 5,
-      "name": "Rex",
-      "image": "http://umich.edu/~chemh215/W11HTML/SSG5/ssg5.2/FRex.png",
-      "likes": 1
+      "position": "QB",
+      "name": "Lamar Jackson",
+      "teamName": "Baltimore Ravens",
+      "projectedPoints": 20.8,
+      "opponent": "New Orleans Saints"
     },
     {
       "id": 6,
-      "name": "Bo Peep",
-      "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "position": "RB",
+      "name": "Austin Ekeler",
+      "teamName": "Los Angeles Chargers",
+      "projectedPoints": 20.9,
+      "opponent": "Atlanta Falcons"
     },
     {
       "id": 7,
-      "name": "Hamm",
-      "image": "https://cdn140.picsart.com/244090226021212.png?r1024x1024",
-      "likes": 0
+      "position": "RB",
+      "name": "Alvin Kamara",
+      "teamName": "New Orleans Saints",
+      "projectedPoints": 20.3,
+      "opponent": "Baltimore Ravens"
     },
     {
       "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "position": "RB",
+      "name": "Derrick Henry",
+      "teamName": "Tennessee Titans",
+      "projectedPoints": 20.0,
+      "opponent": "Kansas City Chiefs"
+    },
+    {
+      "id": 9,
+      "position": "RB",
+      "name": "Josh Jacobs",
+      "teamName": "Las Vegas Raiders",
+      "projectedPoints": 18.4,
+      "opponent": "Jacksonville Jaguars"
+    },
+    {
+      "id": 10,
+      "position": "RB",
+      "name": "Aaron Jones",
+      "teamName": "Green Bay Packers",
+      "projectedPoints": 18.4,
+      "opponent": "Detroit Lions"
+    },
+    {
+      "id": 11,
+      "position": "RB",
+      "name": "Dalvin Cook",
+      "teamName": "Minnesota Vikings",
+      "projectedPoints": 17.1,
+      "opponent": "Washington Commanders"
+    },
+    {
+      "id": 12,
+      "position": "WR",
+      "name": "Tyreek Hill",
+      "teamName": "Miami Dolphins",
+      "projectedPoints": 22.9,
+      "opponent": "Chicago Bears"
+    },
+    {
+      "id": 13,
+      "position": "WR",
+      "name": "Cooper Kupp",
+      "teamName": "Los Angeles Rams",
+      "projectedPoints": 21.0,
+      "opponent": "Tampa Bay Buccaneers"
+    },
+    {
+      "id": 14,
+      "position": "WR",
+      "name": "Stefon Diggs",
+      "teamName": "Buffalo Bills",
+      "projectedPoints": 22.9,
+      "opponent": "Chicago Bears"
+    },
+    {
+      "id": 15,
+      "position": "WR",
+      "name": "Justin Jefferson",
+      "teamName": "Minnesota Vikings",
+      "projectedPoints": 18.0,
+      "opponent": "New York Jets"
+    },
+    {
+      "id": 16,
+      "position": "WR",
+      "name": "AJ Brown",
+      "teamName": "Philadelphia Eagles",
+      "projectedPoints": 17.8,
+      "opponent": "Houston Texans"
+    },
+    {
+      "id": 17,
+      "position": "TE",
+      "name": "Travis Kelce",
+      "teamName": "Kansas City Chiefs",
+      "projectedPoints": 17.3,
+      "opponent": "Tennessee Titans"
+    },
+    {
+      "id": 18,
+      "position": "TE",
+      "name": "Mark Andrews",
+      "teamName": "Baltimore Ravens",
+      "projectedPoints": 15.7,
+      "opponent": "New Orleans Saints"
+    },
+    {
+      "id": 19,
+      "position": "TE",
+      "name": "Travis Kelce",
+      "teamName": "Kansas City Chiefs",
+      "projectedPoints": 17.3,
+      "opponent": "Tennessee Titans"
+    },
+    {
+      "id": 20,
+      "position": "TE",
+      "name": "Tyler Higbee",
+      "teamName": "Los Angeles Rams",
+      "projectedPoints": 10.8,
+      "opponent": "Tampa Bay Buccaneers"
+    },
+    {
+      "id": 21,
+      "position": "TE",
+      "name": "Dallas Goedert",
+      "teamName": "Philadelphia Eagles",
+      "projectedPoints": 10.9,
+      "opponent": "Houston Texans"
+    },
+    {
+      "id": 22,
+      "position": "TE",
+      "name": "George Kittle",
+      "teamName": "San Francisco 49ers",
+      "projectedPoints": 13.3,
+      "opponent": "Bye"
+    },
+    {
+      "id": 23,
+      "position": "K",
+      "name": "Dan Carlson",
+      "teamName": "Las Vegas Raiders",
+      "projectedPoints": 8.9,
+      "opponent": "Jacksonville Jaguars"
+    },
+    {
+      "id": 24,
+      "position": "K",
+      "name": "Younghoe Koo",
+      "teamName": "Atlanta Falcons",
+      "projectedPoints": 8.5,
+      "opponent": "Los Angeles Chargers"
+    },
+    {
+      "id": 25,
+      "position": "K",
+      "name": "Harrison Butker",
+      "teamName": "Kansas City Chiefs",
+      "projectedPoints": 8.3,
+      "opponent": "Tennessee Titans"
+    },
+    {
+      "id": 26,
+      "position": "K",
+      "name": "Cairo Santos",
+      "teamName": "Chicago Bears",
+      "projectedPoints": 8.1,
+      "opponent": "Miami Dolphins"
+    },
+    {
+      "id": 27,
+      "position": "K",
+      "name": "Ryan Succop",
+      "teamName": "Tampa Bay Buccaneers",
+      "projectedPoints": 8.0,
+      "opponent": "Los Angeles Rams"
+    },
+    {
+      "id": 28,
+      "position": "DEF",
+      "name": "Eagles DEF",
+      "teamName": "Philadelphia Eagles",
+      "projectedPoints": 7.3,
+      "opponent": "Houston Texans"
+    },
+    {
+      "id": 29,
+      "position": "DEF",
+      "name": "Bills DEF",
+      "teamName": "Buffalo Bills",
+      "projectedPoints": 7.0,
+      "opponent": "New York Jets"
+    },
+    {
+      "id": 30,
+      "position": "DEF",
+      "name": "Bengals DEF",
+      "teamName": "Cincinnati Bengals",
+      "projectedPoints": 6.9,
+      "opponent": "Carolina Panthers"
+    },
+    {
+      "id": 31,
+      "position": "DEF",
+      "name": "Dolphins DEF",
+      "teamName": "Miami Dolphins",
+      "projectedPoints": 6.4,
+      "opponent": "Chicago Bears"
+    },
+    {
+      "id": 32,
+      "position": "DEF",
+      "name": "Patriots DEF",
+      "teamName": "New England Patriots",
+      "projectedPoints": 6.3,
+      "opponent": "Indianapolis Colts"
     }
   ]
 }
