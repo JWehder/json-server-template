@@ -1,4 +1,4 @@
-# JSON Server Template
+# JSON Server - Dream Team Fantasy Football
 
 ## Setup
 
@@ -10,29 +10,8 @@ npm install
 
 ## Seeding Data
 
-To set up your database, update the `db/seeds.json` file to contain an object
-with a key pointing to an array of data, like this:
 
-```json
-{
-  "toys": [
-    {
-      "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
-    },
-    {
-      "id": 2,
-      "name": "Buzz Lightyear",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 14
-    }
-  ]
-}
-```
-
-Then, run `npm run seed` to copy data from the `db/seeds.json` file to the
+Run `npm run seed` to copy data from the `db/seeds.json` file to the
 `db/db.json` file. `json-server` uses the `db.json` file to create your RESTful
 API, so make sure your `db.json` file is always up to date!
 
