@@ -258,6 +258,63 @@
     }
   ],
   "teams": [
-    
+    {
+      "Austin, Rockstars": {
+        "cityName": "Austin",
+        "teamName": "Rockstars",
+        "teamLogo": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      },
+      "myPlayers": [
+        {
+          "id": 2,
+          "position": "QB",
+          "name": "Josh Allen",
+          "teamName": "Buffalo Bills",
+          "projectedPoints": 23,
+          "opponent": "New York Jets"
+        },
+        {
+          "id": 7,
+          "position": "RB",
+          "name": "Alvin Kamara",
+          "teamName": "New Orleans Saints",
+          "projectedPoints": 20.3,
+          "opponent": "Baltimore Ravens"
+        },
+        {
+          "id": 12,
+          "position": "WR",
+          "name": "Tyreek Hill",
+          "teamName": "Miami Dolphins",
+          "projectedPoints": 22.9,
+          "opponent": "Chicago Bears"
+        },
+        {
+          "id": 17,
+          "position": "TE",
+          "name": "Travis Kelce",
+          "teamName": "Kansas City Chiefs",
+          "projectedPoints": 17.3,
+          "opponent": "Tennessee Titans"
+        },
+        {
+          "id": 23,
+          "position": "K",
+          "name": "Dan Carlson",
+          "teamName": "Las Vegas Raiders",
+          "projectedPoints": 8.9,
+          "opponent": "Jacksonville Jaguars"
+        },
+        {
+          "id": 28,
+          "position": "DEF",
+          "name": "Eagles DEF",
+          "teamName": "Philadelphia Eagles",
+          "projectedPoints": 7.3,
+          "opponent": "Houston Texans"
+        }
+      ],
+      "id": 1
+    }
   ]
 }
