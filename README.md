@@ -1,5 +1,7 @@
 # JSON Server - Dream Team Fantasy Football
 
+This database serves as a backend for my application [Dream Team Fantasy Football](https://github.com/JWehder/phase-2-project). If you haven't already, fork and clone the files there, follow the instructions in the `README.md` there, and then come back here. 
+
 ## Setup
 
 Fork and clone this repo. Then install the dependencies by running:

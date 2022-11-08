@@ -131,10 +131,10 @@
     {
       "id": 17,
       "position": "TE",
-      "name": "Travis Kelce",
-      "teamName": "Kansas City Chiefs",
-      "projectedPoints": 17.3,
-      "opponent": "Tennessee Titans"
+      "name": "Darren Waller",
+      "teamName": "Las Vegas Raiders",
+      "projectedPoints": 10.3,
+      "opponent": "Jacksonville Jaguars"
     },
     {
       "id": 18,
@@ -259,19 +259,19 @@
   ],
   "teams": [
     {
-      "Austin, Rockstars": {
+      "Austin, Cowboys": {
         "cityName": "Austin",
-        "teamName": "Rockstars",
+        "teamName": "Cowboys",
         "teamLogo": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
       },
       "myPlayers": [
         {
-          "id": 2,
+          "id": 1,
           "position": "QB",
-          "name": "Josh Allen",
-          "teamName": "Buffalo Bills",
-          "projectedPoints": 23,
-          "opponent": "New York Jets"
+          "name": "Patrick Mahomes",
+          "teamName": "Kansas City Chiefs",
+          "projectedPoints": 24.4,
+          "opponent": "Tennessee Titans"
         },
         {
           "id": 7,
@@ -282,39 +282,213 @@
           "opponent": "Baltimore Ravens"
         },
         {
-          "id": 12,
+          "id": 13,
           "position": "WR",
-          "name": "Tyreek Hill",
-          "teamName": "Miami Dolphins",
-          "projectedPoints": 22.9,
-          "opponent": "Chicago Bears"
+          "name": "Cooper Kupp",
+          "teamName": "Los Angeles Rams",
+          "projectedPoints": 21,
+          "opponent": "Tampa Bay Buccaneers"
         },
         {
-          "id": 17,
+          "id": 18,
           "position": "TE",
-          "name": "Travis Kelce",
-          "teamName": "Kansas City Chiefs",
-          "projectedPoints": 17.3,
-          "opponent": "Tennessee Titans"
+          "name": "Mark Andrews",
+          "teamName": "Baltimore Ravens",
+          "projectedPoints": 15.7,
+          "opponent": "New Orleans Saints"
         },
         {
-          "id": 23,
+          "id": 24,
           "position": "K",
-          "name": "Dan Carlson",
-          "teamName": "Las Vegas Raiders",
-          "projectedPoints": 8.9,
-          "opponent": "Jacksonville Jaguars"
+          "name": "Younghoe Koo",
+          "teamName": "Atlanta Falcons",
+          "projectedPoints": 8.5,
+          "opponent": "Los Angeles Chargers"
         },
         {
-          "id": 28,
+          "id": 29,
           "position": "DEF",
-          "name": "Eagles DEF",
-          "teamName": "Philadelphia Eagles",
-          "projectedPoints": 7.3,
-          "opponent": "Houston Texans"
+          "name": "Bills DEF",
+          "teamName": "Buffalo Bills",
+          "projectedPoints": 7,
+          "opponent": "New York Jets"
         }
       ],
       "id": 1
+    },
+    {
+      ", ": {
+        "cityName": "",
+        "teamName": "",
+        "teamLogo": ""
+      },
+      "myPlayers": [
+        {
+          "id": 1,
+          "position": "QB",
+          "name": "Patrick Mahomes",
+          "teamName": "Kansas City Chiefs",
+          "projectedPoints": 24.4,
+          "opponent": "Tennessee Titans"
+        },
+        {
+          "id": 7,
+          "position": "RB",
+          "name": "Alvin Kamara",
+          "teamName": "New Orleans Saints",
+          "projectedPoints": 20.3,
+          "opponent": "Baltimore Ravens"
+        },
+        {
+          "id": 13,
+          "position": "WR",
+          "name": "Cooper Kupp",
+          "teamName": "Los Angeles Rams",
+          "projectedPoints": 21,
+          "opponent": "Tampa Bay Buccaneers"
+        },
+        {
+          "id": 18,
+          "position": "TE",
+          "name": "Mark Andrews",
+          "teamName": "Baltimore Ravens",
+          "projectedPoints": 15.7,
+          "opponent": "New Orleans Saints"
+        },
+        {
+          "id": 24,
+          "position": "K",
+          "name": "Younghoe Koo",
+          "teamName": "Atlanta Falcons",
+          "projectedPoints": 8.5,
+          "opponent": "Los Angeles Chargers"
+        },
+        {
+          "id": 29,
+          "position": "DEF",
+          "name": "Bills DEF",
+          "teamName": "Buffalo Bills",
+          "projectedPoints": 7,
+          "opponent": "New York Jets"
+        }
+      ],
+      "id": 2
+    },
+    {
+      ", ": {
+        "cityName": "",
+        "teamName": "",
+        "teamLogo": ""
+      },
+      "myPlayers": [
+        {
+          "id": 1,
+          "position": "QB",
+          "name": "Patrick Mahomes",
+          "teamName": "Kansas City Chiefs",
+          "projectedPoints": 24.4,
+          "opponent": "Tennessee Titans"
+        },
+        {
+          "id": 7,
+          "position": "RB",
+          "name": "Alvin Kamara",
+          "teamName": "New Orleans Saints",
+          "projectedPoints": 20.3,
+          "opponent": "Baltimore Ravens"
+        },
+        {
+          "id": 13,
+          "position": "WR",
+          "name": "Cooper Kupp",
+          "teamName": "Los Angeles Rams",
+          "projectedPoints": 21,
+          "opponent": "Tampa Bay Buccaneers"
+        },
+        {
+          "id": 18,
+          "position": "TE",
+          "name": "Mark Andrews",
+          "teamName": "Baltimore Ravens",
+          "projectedPoints": 15.7,
+          "opponent": "New Orleans Saints"
+        },
+        {
+          "id": 24,
+          "position": "K",
+          "name": "Younghoe Koo",
+          "teamName": "Atlanta Falcons",
+          "projectedPoints": 8.5,
+          "opponent": "Los Angeles Chargers"
+        },
+        {
+          "id": 29,
+          "position": "DEF",
+          "name": "Bills DEF",
+          "teamName": "Buffalo Bills",
+          "projectedPoints": 7,
+          "opponent": "New York Jets"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "Austin, Cowboys": {
+        "cityName": "Austin",
+        "teamName": "Cowboys",
+        "teamLogo": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      },
+      "myPlayers": [
+        {
+          "id": 1,
+          "position": "QB",
+          "name": "Patrick Mahomes",
+          "teamName": "Kansas City Chiefs",
+          "projectedPoints": 24.4,
+          "opponent": "Tennessee Titans"
+        },
+        {
+          "id": 7,
+          "position": "RB",
+          "name": "Alvin Kamara",
+          "teamName": "New Orleans Saints",
+          "projectedPoints": 20.3,
+          "opponent": "Baltimore Ravens"
+        },
+        {
+          "id": 13,
+          "position": "WR",
+          "name": "Cooper Kupp",
+          "teamName": "Los Angeles Rams",
+          "projectedPoints": 21,
+          "opponent": "Tampa Bay Buccaneers"
+        },
+        {
+          "id": 18,
+          "position": "TE",
+          "name": "Mark Andrews",
+          "teamName": "Baltimore Ravens",
+          "projectedPoints": 15.7,
+          "opponent": "New Orleans Saints"
+        },
+        {
+          "id": 24,
+          "position": "K",
+          "name": "Younghoe Koo",
+          "teamName": "Atlanta Falcons",
+          "projectedPoints": 8.5,
+          "opponent": "Los Angeles Chargers"
+        },
+        {
+          "id": 29,
+          "position": "DEF",
+          "name": "Bills DEF",
+          "teamName": "Buffalo Bills",
+          "projectedPoints": 7,
+          "opponent": "New York Jets"
+        }
+      ],
+      "id": 4
     }
   ]
 }
