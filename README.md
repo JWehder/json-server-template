@@ -1,6 +1,21 @@
 # JSON Server - Dream Team Fantasy Football
 
-This database serves as a backend for my application [Dream Team Fantasy Football](https://github.com/JWehder/phase-2-project). If you haven't already, fork and clone the files there, follow the instructions in the `README.md` there, and then come back here. 
+This database serves as a backend for my application [Dream Team Fantasy Football](https://github.com/JWehder/phase-2-project). If you haven't already, fork and clone the files there. 
+
+## Frontend Installation
+
+Fork and clone the files within [this repository](https://github.com/JWehder/phase-2-project) to get started. If you are unsure of how to fork and clone repositories from GitHub, click [here](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop). Once you have it downloaded, open this directory in an IDE of your choice. 
+
+Before you get started, run the following in your terminal to install the dependencies for this project.
+
+```sh
+npm install 
+```
+Thereafter, run the below in your terminal.
+
+```sh
+npm start
+```
 
 ## Setup
 
@@ -59,3 +74,7 @@ Then push your main/default branch up to Heroku:
 ```sh
 git push heroku main
 ```
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
