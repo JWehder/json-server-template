@@ -373,6 +373,122 @@
         }
       ],
       "id": 2
+    },
+    {
+      "Austin, Cowboys": {
+        "cityName": "Austin",
+        "teamName": "Cowboys",
+        "teamLogo": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      },
+      "myPlayers": [
+        {
+          "id": 2,
+          "position": "QB",
+          "name": "Josh Allen",
+          "teamName": "Buffalo Bills",
+          "projectedPoints": 23,
+          "opponent": "New York Jets"
+        },
+        {
+          "id": 7,
+          "position": "RB",
+          "name": "Alvin Kamara",
+          "teamName": "New Orleans Saints",
+          "projectedPoints": 20.3,
+          "opponent": "Baltimore Ravens"
+        },
+        {
+          "id": 13,
+          "position": "WR",
+          "name": "Cooper Kupp",
+          "teamName": "Los Angeles Rams",
+          "projectedPoints": 21,
+          "opponent": "Tampa Bay Buccaneers"
+        },
+        {
+          "id": 18,
+          "position": "TE",
+          "name": "Mark Andrews",
+          "teamName": "Baltimore Ravens",
+          "projectedPoints": 15.7,
+          "opponent": "New Orleans Saints"
+        },
+        {
+          "id": 24,
+          "position": "K",
+          "name": "Younghoe Koo",
+          "teamName": "Atlanta Falcons",
+          "projectedPoints": 8.5,
+          "opponent": "Los Angeles Chargers"
+        },
+        {
+          "id": 29,
+          "position": "DEF",
+          "name": "Bills DEF",
+          "teamName": "Buffalo Bills",
+          "projectedPoints": 7,
+          "opponent": "New York Jets"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "Austin, Cowboys": {
+        "cityName": "Austin",
+        "teamName": "Cowboys",
+        "teamLogo": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png"
+      },
+      "myPlayers": [
+        {
+          "id": 2,
+          "position": "QB",
+          "name": "Josh Allen",
+          "teamName": "Buffalo Bills",
+          "projectedPoints": 23,
+          "opponent": "New York Jets"
+        },
+        {
+          "id": 8,
+          "position": "RB",
+          "name": "Derrick Henry",
+          "teamName": "Tennessee Titans",
+          "projectedPoints": 20,
+          "opponent": "Kansas City Chiefs"
+        },
+        {
+          "id": 14,
+          "position": "WR",
+          "name": "Stefon Diggs",
+          "teamName": "Buffalo Bills",
+          "projectedPoints": 22.9,
+          "opponent": "Chicago Bears"
+        },
+        {
+          "id": 19,
+          "position": "TE",
+          "name": "Travis Kelce",
+          "teamName": "Kansas City Chiefs",
+          "projectedPoints": 17.3,
+          "opponent": "Tennessee Titans"
+        },
+        {
+          "id": 25,
+          "position": "K",
+          "name": "Harrison Butker",
+          "teamName": "Kansas City Chiefs",
+          "projectedPoints": 8.3,
+          "opponent": "Tennessee Titans"
+        },
+        {
+          "id": 30,
+          "position": "DEF",
+          "name": "Bengals DEF",
+          "teamName": "Cincinnati Bengals",
+          "projectedPoints": 6.9,
+          "opponent": "Carolina Panthers"
+        }
+      ],
+      "id": 4
     }
   ]
 }
